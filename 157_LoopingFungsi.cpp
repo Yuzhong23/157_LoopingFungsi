@@ -12,6 +12,13 @@ int main() {
 
 	cout << "Nilai i terakhir : " << i << endl;
 
+	for (i = 0; i < 5; i++) {
+		cout << "Masukan Nilai Index Ke-" << i << " :";
+		cin >> arr[i];
 
+	}
+	for (i = 0; i < 5; i++) {
+		cout << "Data Array Ke-" << i << " :" << arr[i] << endl;
+	}
 
 }
