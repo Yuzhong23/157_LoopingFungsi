@@ -4,7 +4,8 @@ using namespace std;
 int sisi;
 
 void inputdata() {
-
+    cout << "MAsukan nilai sisi :";
+    cin >> sisi;
 }
 int hitungluas() {
  
