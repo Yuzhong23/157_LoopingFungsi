@@ -9,5 +9,6 @@ int main()
 
 	x = rand() % 10;
 
+	cout << "Nilai X awal : " << x << endl;
 
 }
