@@ -10,6 +10,9 @@ void inputdata() {
     cout << "Masukan Nilai Lebar: ";
     cin >> lebar;
 }
+int hitungluas() {
+    return panjang * lebar;
+}
 
 int main() {
  
