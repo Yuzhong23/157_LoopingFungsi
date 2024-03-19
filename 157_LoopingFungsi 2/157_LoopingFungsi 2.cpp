@@ -11,4 +11,8 @@ int main()
 
 	cout << "Nilai X awal : " << x << endl;
 
+	while (x > 4)
+	{
+		cout << "Perulangan While" << x << endl;
+	}
 }
